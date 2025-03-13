@@ -1,0 +1,11 @@
+# ENVIRONMENT VARIABLES
+*.env
+
+# DENO LOCK
+deno.lock
+
+
+
+
+
+
